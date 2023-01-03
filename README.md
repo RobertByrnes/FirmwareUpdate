@@ -44,7 +44,7 @@ updater.update(PSTR("http://your-update-server.com"), PSTR("update.bin"));
 
 ## Credits
 
-The FirmwareUpdater library was created by [Robert Byrnes](https://github.com/rbyrnes) and [ChatGPT](https://github.com/ChatGPT).
+The FirmwareUpdater library was created by [Robert Byrnes](https://github.com/RobertByrnes) and [ChatGPT](https://openai.com/blog/chatgpt/).
 
 ## License
 
